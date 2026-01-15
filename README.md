@@ -6,3 +6,5 @@ The paper is very fascinating though, questioning and investigating the widely h
 
 Using my notebook, you can both inspect the toy model and produce figures like the following one, and investigate language models like GPT2.
 
+![Original and rotated W matrix.](w_images.png)
+
